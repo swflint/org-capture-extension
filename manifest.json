@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Org Capture",
-    "version": "1.0",
+    "version": "1.1",
     "description": "A helper for capturing things via org-protocol in emacs: First, set up: http://orgmode.org/worg/org-contrib/org-protocol.html",
     "homepage_url": "https://github.com/swflint/org-capture-extension",
 
